@@ -4,6 +4,9 @@
 
 ### Starting date: 2020/09/07 
 
+
+** Notes **
+
 -My interesting topic: Development of deep learning based medical images analysis
 
 -Contents to be updated 
